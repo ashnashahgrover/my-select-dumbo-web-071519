@@ -10,4 +10,3 @@ def my_select(collection)
  selected
 end
 
-i ; i==even 
